@@ -1,7 +1,7 @@
 ---
-published: false
+layout: post
+title: My Objective
+comments: true
 ---
 
-## My Objective
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+My objective is to make a useful App for my smart phone (or smartphone) and to explain step-by-step how I did it.
