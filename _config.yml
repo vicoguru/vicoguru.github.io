@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Vico.Guru
 tagline:             'A blog for beginner programmer'
-description:         'A blog for all young (and young at heart) people who want some help in their programming endavours.'
+description:         'A blog for all young (and young at heart) people who want some help in their programming endeavours.'
 url:                 http://www.vico.guru
 baseurl:             /
 paginate:            5
@@ -19,10 +19,8 @@ paginate:            5
 # About/contact
 author:
   name:              Vico Guru
-  url:               https://twitter.com/mdo
+  url:               https://twitter.com/vicoguru
   email:             real.vico.guru@gmail.com
 
 # Custom vars
 version:             1.0.0
-
-port:                4445
